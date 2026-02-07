@@ -1,0 +1,29 @@
+{
+  "name": "projeto-node.js-e-mysql",
+  "version": "1.0.0",
+  "description": "Projeto Node.js e MySQL",
+  "keywords": [
+    "express",
+    "express-handlebars",
+    "bootstrap",
+    "mysql"
+  ],
+  "homepage": "https://github.com/GusDev150/Projeto-Node.js-e-MySQL#readme",
+  "bugs": {
+    "url": "https://github.com/GusDev150/Projeto-Node.js-e-MySQL/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GusDev150/Projeto-Node.js-e-MySQL.git"
+  },
+  "license": "ISC",
+  "author": "Gustavo Silva",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
